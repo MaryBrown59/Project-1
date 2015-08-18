@@ -1,2 +1,12 @@
-# Project-1
+# Project-1 - Front End Web Developer
 Mynor Focus Inc. 2015
+IntroduCIng HtML5 and Css3
+Get ready, people, ’cause there’s a revolution underway. It’s going to change the way websites are built and viewed, and it’s going to make the web more accessible for people, search engines, computers, smartphones, you name it. It’s the shift to HTML5 and CSS3. Mark your calendars, because by mid-2011, you can expect widespread browser support for these languages. 
+What exactly are HTML5 and CSS3? They’re revised versions of the web design languages we’ve come to know and love. Now keep in mind that the existing versions of HTML and CSS aren’t getting scrapped; instead, more elements and properties — and by extension, more functionality — are being added.
+
+But if it’s not broken, why fix it? The answer to that question actually lies in the history behind HTML5 and CSS3. See, in 1997, the grand high pooh-bahs at the World Wide Web Consortium (W3C for short) decided to stop extending the then-current version of HTML, and instead turned their focus toward XML and XHTML. Their intentions were good, and by using languages that had to be formatted correctly in order to validate, they hoped to keep things standard across the web. Some designers readily adopted this new system, whereas others stuck with HTML for the looser syntax and validation rules, and still others weren’t even aware of the change.
+
+A few years later, a group of developers and browser vendors petitioned the W3C to update HTML and CSS to reflect the changing nature of the web. The W3C refused, staunchly clinging to the XML/XHTML ideal. However, a group of people calling themselves the Web Hypertext Applications Technology Working Group (WHATWG) broke apart from the W3C. They were dedicated to updating HTML and CSS while maintaining backward compatibility and forgiving error handling. Eventually, the W3C saw the light and joined forces with the WHATWG, and they began work on HTML5 and CSS3 in earnest.
+
+One of the things that makes HTML5 and CSS3 so powerful is hindsight. We’ve learned a lot about how people interact with the web — and about the web itself — in the years since its inception, and HTML5 and CSS3 take this knowledge into account. They’re also more suited to the technologies of our modern age, like smartphones and iPads, as well as to disabled users and search engines. Finally, the languages are much more intuitive, meaning they’ll be easier to learn, easier to master, and easier to use to create kick-butt websites. 
+Sound too good to be true? It’s not. 
